@@ -1,6 +1,6 @@
 ![MasterHead](./banner.png)
 <!-- GitHub Banner Image with Rounded Corners -->
-<img src="./banner.png" alt="MasterHead" style="width:100%; border-radius: 150px;" />
+<img src="./banner.png" alt="MasterHead" style="width: 100%;max-width: 100%;border-radius: 100px;">
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=yadav-aayansh&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-aayansh" /> </h3>
 

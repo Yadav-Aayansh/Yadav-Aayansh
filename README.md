@@ -1,7 +1,7 @@
 ![MasterHead](./banner.png)
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=yadav-aayansh&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-aayansh" /> </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadav-aayansh" alt="yadav-aayansh" /></a> </p>
+<p align="left" disabled> <a href="https://github.com/ryo-ma/github-profile-trophy" disabled><img src="https://github-profile-trophy.vercel.app/?username=yadav-aayansh" alt="yadav-aayansh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

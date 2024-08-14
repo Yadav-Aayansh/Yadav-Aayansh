@@ -1,4 +1,4 @@
-![MasterHead](./your-header-image-name.png)
+![MasterHead](./github-header-image.png)
 <h1 align="center">Hello! Myself Aayansh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

@@ -13,9 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/yadav-aayansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadav-aayansh" height="30" width="40" /></a>
 </p>
-<p style="font-family: Arial, sans-serif; font-size: 18px; color: blue;">
+<h3 style="font-family: Arial, sans-serif; color: blue;">
 My Tech Stacks
-</p>
+</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>

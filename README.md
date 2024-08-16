@@ -8,7 +8,9 @@
 - 💬 Ask me about **Web Development, CyberSecurity, Game Modding**
 
 - 📫 How to reach me **aayanshyadav@proton.me**
-
+<p align="center">
+  <img src="./vector.svg" alt="HTML" height="25px">
+</p>p
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="25px">

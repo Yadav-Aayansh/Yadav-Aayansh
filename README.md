@@ -35,7 +35,6 @@ My Tech Stacks
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadav-aayansh&show_icons=true&locale=en&layout=compact" alt="yadav-aayansh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&locale=en" alt="yadav-aayansh" /></p>
-
+![Aayansh Yadav's github stats](https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&theme=dracula)
 
 <img src="https://t.bkit.co/w_66bb7ae98af2f.gif" />

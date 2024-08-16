@@ -13,9 +13,16 @@
 <p align="left">
 <a href="https://linkedin.com/in/yadav-aayansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadav-aayansh" height="30" width="40" /></a>
 </p>
+
 <h3 style="font-family: Arial, sans-serif; color: blue;">
 My Tech Stacks
 </h3>
+![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg)
+![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg)
+![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg)
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg)
+![Lua](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/lua.svg)
+
 
 
 <h3 align="left">Languages and Tools:</h3>

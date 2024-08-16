@@ -17,6 +17,7 @@
 <h3 style="font-family: Arial, sans-serif; color: blue;">
 My Tech Stacks
 </h3>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg)
 ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg)
 ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg)

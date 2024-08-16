@@ -34,7 +34,8 @@ My Tech Stacks
 </p>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![Aayansh Yadav's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yadav-aayansh&show_icons=true&theme=dracula&layout=compact)
 ![Aayansh Yadav's github stats](https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&theme=dracula)
+<p></p>
+![Aayansh Yadav's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yadav-aayansh&show_icons=true&theme=dracula&layout=compact)
 
 <img src="https://t.bkit.co/w_66bb7ae98af2f.gif" />

@@ -1,6 +1,7 @@
 ![MasterHead](./banner.png)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yadav-aayansh&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-aayansh" /> </p>
+<h3 align="center">"A curious mind passionate about coding, delving into cybersecurity, and exploring the realms of AI/ML."
+</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-aayansh&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-aayansh" /> </p>
 
 
 - 🌱 I’m currently learning **AI, ML**

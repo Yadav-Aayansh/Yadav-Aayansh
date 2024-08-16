@@ -2,7 +2,7 @@
 <h3 align="center">A learner passionate about coding, cybersecurity, and exploring AI/ML.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yadav-aayansh&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-aayansh" /> </p>
 
-<img align="right" src="./vector.gif" width="400" alt="Vector">
+<img align="right" src="./vector.svg" width="400" alt="Vector">
 
 ## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 - 🌱 I’m currently learning **AI/ML**

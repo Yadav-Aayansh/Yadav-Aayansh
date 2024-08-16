@@ -35,7 +35,8 @@ My Tech Stacks
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&theme=dracula" height="150" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&theme=dracula" height="150">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yadav-aayansh&show_icons=true&theme=dracula&layout=compact" height="150">
 </div>
 

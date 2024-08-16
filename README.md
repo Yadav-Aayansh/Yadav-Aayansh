@@ -18,7 +18,7 @@
 My Tech Stacks
 </h3>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg">
+<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
 ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg)
 ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg)
 ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg)

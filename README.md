@@ -2,15 +2,15 @@
 <h3 align="center">A learner passionate about coding, cybersecurity, and exploring AI/ML.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yadav-aayansh&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-aayansh" /> </p>
 
+<img align="right" src="./vector.svg" width="400" alt="Vector">
+
 ## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 - 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **Web Development, CyberSecurity, Game Modding**
 
 - 📫 How to reach me **aayanshyadav@proton.me**
-<p align="center">
-  <img src="./vector.svg" alt="HTML" height="25px">
-</p>p
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="25px">

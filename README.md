@@ -37,6 +37,5 @@ My Tech Stacks
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&locale=en" alt="yadav-aayansh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-aayansh&" alt="yadav-aayansh" /></p>
 
 <img src="https://t.bkit.co/w_66bb7ae98af2f.gif" />

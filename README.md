@@ -34,8 +34,10 @@ My Tech Stacks
 </p>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-<img src="https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&theme=dracula" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yadav-aayansh&show_icons=true&theme=dracula&layout=compact" height="200">
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&theme=dracula" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yadav-aayansh&show_icons=true&theme=dracula&layout=compact" height="200">
+</div>
 
 
 <img src="https://t.bkit.co/w_66bb7ae98af2f.gif" />

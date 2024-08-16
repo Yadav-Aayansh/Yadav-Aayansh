@@ -25,7 +25,7 @@ My Tech Stacks
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" height="25px">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="25px">
+  <img src="https://img.shields.io/badge/Flask-ff0000?style=flat&logo=flask&logoColor=white" alt="Flask" height="25px">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" height="25px">
 </p>
 <p>

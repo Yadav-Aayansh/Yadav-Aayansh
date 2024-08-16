@@ -33,8 +33,8 @@ My Tech Stacks
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="25px">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadav-aayansh&show_icons=true&locale=en&layout=compact" alt="yadav-aayansh" /></p>
-
+## 𝗦𝘁𝗮𝘁𝘀
+![Aayansh Yadav's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yadav-aayansh&show_icons=true&theme=dracula&layout=compact)
 ![Aayansh Yadav's github stats](https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&theme=dracula)
 
 <img src="https://t.bkit.co/w_66bb7ae98af2f.gif" />

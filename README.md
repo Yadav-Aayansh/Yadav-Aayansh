@@ -17,16 +17,7 @@
 <h3 style="font-family: Arial, sans-serif; color: blue;">
 My Tech Stacks
 </h3>
-<style>
-  .image-container img {
-    width: 120px; /* Set uniform width */
-    height: auto; /* Maintain aspect ratio */
-    display: inline-block; /* Align images side by side */
-    margin-right: 10px; /* Space between images */
-  }
-</style>
-
-<p class="image-container">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript">

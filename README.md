@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **aayanshyadav@proton.me**
 
-<h3 style="font-family: Arial, sans-serif; color: blue;">
-My Tech Stacks
-</h3>
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="25px">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="25px">

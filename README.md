@@ -2,7 +2,7 @@
 <h3 align="center">A learner passionate about coding, cybersecurity, and exploring AI/ML.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yadav-aayansh&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-aayansh" /> </p>
 
-
+## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 - 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **Web Development, CyberSecurity, Game Modding**
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="25px">
 </p>
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&theme=dracula" height="150">
   &nbsp;&nbsp;&nbsp;

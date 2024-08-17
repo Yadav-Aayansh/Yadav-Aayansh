@@ -4,7 +4,7 @@
 
 
 ## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-<img align="right" src="./download (2).svg" width="350" alt="Vector">
+<img align="right" src="./vector.svg" width="350" alt="Vector">
 
 - 🌱 I’m currently learning **AI/ML**
 

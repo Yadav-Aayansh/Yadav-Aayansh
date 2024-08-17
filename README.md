@@ -1,5 +1,5 @@
 ![MasterHead](./banner.png)
-<h3 align="center">A learner passionate about coding, cybersecurity, and exploring AI/ML.</h3>
+<h3 align="center">A learner passionate about Coding, Cybersecurity, and exploring AI/ML.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yadav-aayansh&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-aayansh" /> </p>
 
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development, CyberSecurity, Game Modding**
 
-- 📫 How to reach me **aayanshyadav@proton.me**
+- 📫 How to Reach me **aayanshyadav@proton.me**
 
 <h3 align="left">𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h3>
 <p>

@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="25px">
 </p>
 
+<!--email_off-->23f2003711@ds.study.iitm.ac.in<!--/email_off-->
+
 ## 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=yadav-aayansh&show_icons=true&theme=dracula" height="150">

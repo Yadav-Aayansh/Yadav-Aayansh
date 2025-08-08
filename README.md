@@ -14,11 +14,13 @@
 
 <h3 align="left">𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h3>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="25px">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="25px">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="25px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="25px">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" height="25px">
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="25px"> -->
+<!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="25px"> -->
+  <img src="https://img.shields.io/badge/Java?style=flat&logo=java&logoColor=white" alt="Java" height="25px">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="25px">
+  
+  
 </p>
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="25px">

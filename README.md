@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yadav-Aayansh/Yadav-Aayansh/main/portrait.svg" width="720" alt="Aayansh Yadav, rendered in his own stack">
+  <img src="https://raw.githubusercontent.com/Yadav-Aayansh/Yadav-Aayansh/main/portrait.png" width="720" alt="Aayansh Yadav, rendered in his own stack">
 </p>
 
 ```

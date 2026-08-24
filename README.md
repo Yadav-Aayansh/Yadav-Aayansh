@@ -1,16 +1,15 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yadav-Aayansh/Yadav-Aayansh/main/portrait.png" width="720" alt="Aayansh Yadav, rendered in his own stack">
-</p>
+<img align="left" src="portrait.png" width="240" alt="Aayansh Yadav" />
 
-```
-Aayansh Yadav — backend engineer
-Java · Spring Boot · PostgreSQL · Redis · FastAPI · Docker
-IIT Madras, 2027 · New Delhi · awake at odd hours
-```
+### Aayansh Yadav
 
-I build backend systems that hold under load — high-concurrency ledgers,
-multi-tenant APIs, and the boring infrastructure that keeps them honest.
+`backend engineer` &nbsp;·&nbsp; IIT Madras '27 &nbsp;·&nbsp; New Delhi
 
-`noctivagous.me` · `aayanshyadav@proton.me` · [LinkedIn](https://linkedin.com/in/yadav-aayansh)
+I build systems that hold under load — high-concurrency ledgers, multi-tenant
+APIs, and the unglamorous infrastructure that keeps them honest. Java and Spring
+on the write path, Python where it moves faster, Postgres underneath all of it.
 
-<sub>Every character above is something I work with. Zoom in.</sub>
+**Java** · **Spring Boot** · **PostgreSQL** · **Redis** · **FastAPI** · **Docker**
+
+[noctivagous.me](https://noctivagous.me) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yadav-aayansh) &nbsp;·&nbsp; [aayanshyadav@proton.me](mailto:aayanshyadav@proton.me)
+
+<br clear="left" />

@@ -1,4 +1,6 @@
-<img align="left" src="portrait.svg" width="300" alt="Aayansh Yadav" />
+<table>
+<tr>
+<td valign="top" width="62%">
 
 ## Hi, I'm Aayansh Yadav!
 
@@ -8,6 +10,7 @@ I build concurrent systems that stay correct under load. BS Data Science, IIT Ma
 Java | Spring Boot | Python | FastAPI | PostgreSQL | Redis | Docker | AWS
 
 **The Proof**
+
 * **Concurrency:** 1,000 concurrent withdrawals on one account settled exactly 10, zero overselling. 710 TPS under single-row contention. Deadlock-safe, double-entry, exactly-once.
 * **Architecture:** Schema-isolated multi-tenant HR platform. 50+ APIs, per-tenant Postgres, automated SSL and subdomain routing on GCP.
 * **Performance:** 350ms → 70ms on geospatial search (H3 indexing). 240ms → 45ms on threat evaluation (Redis + Docker on EC2).
@@ -16,4 +19,9 @@ Java | Spring Boot | Python | FastAPI | PostgreSQL | Redis | Docker | AWS
 
 Prev: SWE Intern @ Straive | SDE Intern @ Annam.AI
 
-<br clear="left" />
+</td>
+<td valign="top" width="38%">
+<img src="portrait.svg" width="100%" alt="Aayansh Yadav" />
+</td>
+</tr>
+</table>

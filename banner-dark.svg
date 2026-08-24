@@ -1,58 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 646" width="1220" height="646" role="img" aria-label="Aayansh Yadav, backend engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 570" width="1220" height="570" role="img" aria-label="Aayansh Yadav, software engineer">
 <defs><radialGradient id="glow" cx="50%" cy="42%" r="62%"><stop offset="0" stop-color="#9c3a4a" stop-opacity="0.26"/><stop offset="0.55" stop-color="#9c3a4a" stop-opacity="0.08"/><stop offset="1" stop-color="#9c3a4a" stop-opacity="0"/></radialGradient></defs>
-<rect width="1220" height="646" rx="14" fill="#0e0d10"/>
-<ellipse cx="968" cy="323" rx="296" ry="276" fill="url(#glow)"/>
+<rect width="1220" height="570" rx="14" fill="#0e0d10"/>
+<ellipse cx="968" cy="285" rx="296" ry="276" fill="url(#glow)"/>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
-<line x1="52" y1="58" x2="80" y2="58" stroke="#7d7669" stroke-width="1.5"/>
-<text x="92" y="62" font-size="12.5" letter-spacing="0.4" fill="#7d7669">Backend Engineer</text>
-<text x="52" y="118" font-size="34" font-weight="700" fill="#f3efe7">Hi, I'm Aayansh Yadav<tspan fill="#c9576c">!</tspan></text>
-<text x="52" y="154" font-size="14.5" fill="#b6afa1">I build concurrent systems that stay correct under load.</text>
-<text x="52" y="177" font-size="14.5" fill="#b6afa1">BS Data Science, IIT Madras '27.</text>
-<line x1="52" y1="232" x2="80" y2="232" stroke="#7d7669" stroke-width="1.5"/>
-<text x="92" y="236" font-size="12.5" letter-spacing="0.4" fill="#7d7669">Stack</text>
-<rect x="52" y="252" width="57" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
-<text x="65" y="272" font-size="13" fill="#b6afa1">Java</text>
-<rect x="119" y="252" width="112" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
-<text x="132" y="272" font-size="13" fill="#b6afa1">Spring Boot</text>
-<rect x="241" y="252" width="73" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
-<text x="254" y="272" font-size="13" fill="#b6afa1">Python</text>
-<rect x="324" y="252" width="81" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
-<text x="337" y="272" font-size="13" fill="#b6afa1">FastAPI</text>
-<rect x="52" y="290" width="104" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
-<text x="65" y="310" font-size="13" fill="#b6afa1">PostgreSQL</text>
-<rect x="166" y="290" width="65" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
-<text x="179" y="310" font-size="13" fill="#b6afa1">Redis</text>
-<rect x="241" y="290" width="73" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
-<text x="254" y="310" font-size="13" fill="#b6afa1">Docker</text>
-<rect x="324" y="290" width="50" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
-<text x="337" y="310" font-size="13" fill="#b6afa1">AWS</text>
-<line x1="52" y1="352" x2="80" y2="352" stroke="#7d7669" stroke-width="1.5"/>
-<text x="92" y="356" font-size="12.5" letter-spacing="0.4" fill="#7d7669">Proof</text>
-<text x="52" y="389" font-size="16" font-weight="700" fill="#c9576c">›</text>
-<text x="74" y="388" font-size="13.5" font-weight="700" fill="#f3efe7">Concurrency</text>
-<text x="240" y="388" font-size="13.5" fill="#b6afa1"><tspan fill="#c9576c" font-weight="700">1,000</tspan><tspan fill="#b6afa1"> concurrent withdrawals on one account. Exactly</tspan></text>
-<text x="240" y="408" font-size="13.5" fill="#b6afa1"><tspan fill="#c9576c" font-weight="700">10</tspan><tspan fill="#b6afa1"> settled, zero overselling. </tspan><tspan fill="#c9576c" font-weight="700">710 TPS</tspan><tspan fill="#b6afa1">, deadlock-safe.</tspan></text>
-<text x="52" y="441" font-size="16" font-weight="700" fill="#c9576c">›</text>
-<text x="74" y="440" font-size="13.5" font-weight="700" fill="#f3efe7">Architecture</text>
-<text x="240" y="440" font-size="13.5" fill="#b6afa1"><tspan fill="#b6afa1">Schema-isolated multi-tenant HR platform. </tspan><tspan fill="#c9576c" font-weight="700">50+</tspan><tspan fill="#b6afa1"> APIs,</tspan></text>
-<text x="240" y="460" font-size="13.5" fill="#b6afa1"><tspan fill="#b6afa1">per-tenant Postgres, automated SSL on GCP.</tspan></text>
-<text x="52" y="493" font-size="16" font-weight="700" fill="#c9576c">›</text>
-<text x="74" y="492" font-size="13.5" font-weight="700" fill="#f3efe7">Performance</text>
-<text x="240" y="492" font-size="13.5" fill="#b6afa1"><tspan fill="#c9576c" font-weight="700">350ms</tspan><tspan fill="#b6afa1"> → </tspan><tspan fill="#c9576c" font-weight="700">70ms</tspan><tspan fill="#b6afa1"> geospatial search (H3 indexing).</tspan></text>
-<text x="240" y="512" font-size="13.5" fill="#b6afa1"><tspan fill="#c9576c" font-weight="700">240ms</tspan><tspan fill="#b6afa1"> → </tspan><tspan fill="#c9576c" font-weight="700">45ms</tspan><tspan fill="#b6afa1"> threat eval (Redis + Docker, EC2).</tspan></text>
-<text x="52" y="545" font-size="16" font-weight="700" fill="#c9576c">›</text>
-<text x="74" y="544" font-size="13.5" font-weight="700" fill="#f3efe7">ML</text>
-<text x="240" y="544" font-size="13.5" fill="#b6afa1"><tspan fill="#b6afa1">Ranked </tspan><tspan fill="#c9576c" font-weight="700">1 of 1,700+</tspan><tspan fill="#b6afa1">, IIT Madras ML competition.</tspan></text>
-<text x="52" y="577" font-size="16" font-weight="700" fill="#c9576c">›</text>
-<text x="74" y="576" font-size="13.5" font-weight="700" fill="#f3efe7">DSA</text>
-<text x="240" y="576" font-size="13.5" fill="#b6afa1"><tspan fill="#b6afa1">LeetCode Knight, </tspan><tspan fill="#c9576c" font-weight="700">1872</tspan><tspan fill="#b6afa1">. Peak top </tspan><tspan fill="#c9576c" font-weight="700">1.2%</tspan><tspan fill="#b6afa1">. </tspan><tspan fill="#c9576c" font-weight="700">700+</tspan><tspan fill="#b6afa1"> solved.</tspan></text>
-<text x="52" y="614" font-size="12.5" fill="#7d7669">SWE Intern, Straive</text>
-<text x="205" y="614" font-size="12.5" fill="#c9576c">·</text>
-<text x="225" y="614" font-size="12.5" fill="#7d7669">SDE Intern, Annam.AI</text>
-<text x="386" y="614" font-size="12.5" fill="#c9576c">·</text>
-<text x="406" y="614" font-size="12.5" fill="#7d7669">github.com/Yadav-Aayansh</text>
+<text x="52" y="92" font-size="34" font-weight="700" fill="#f3efe7">Hi, I'm Aayansh Yadav<tspan fill="#c9576c">!</tspan></text>
+<text x="52" y="128" font-size="25" fill="#b6afa1">Software Engineer</text>
+<line x1="52" y1="184" x2="80" y2="184" stroke="#7d7669" stroke-width="1.5"/>
+<text x="92" y="188" font-size="12.5" letter-spacing="0.4" fill="#7d7669">Stack</text>
+<rect x="52" y="204" width="57" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
+<text x="65" y="224" font-size="13" fill="#b6afa1">Java</text>
+<rect x="119" y="204" width="112" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
+<text x="132" y="224" font-size="13" fill="#b6afa1">Spring Boot</text>
+<rect x="241" y="204" width="73" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
+<text x="254" y="224" font-size="13" fill="#b6afa1">Python</text>
+<rect x="324" y="204" width="81" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
+<text x="337" y="224" font-size="13" fill="#b6afa1">FastAPI</text>
+<rect x="52" y="242" width="104" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
+<text x="65" y="262" font-size="13" fill="#b6afa1">PostgreSQL</text>
+<rect x="166" y="242" width="65" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
+<text x="179" y="262" font-size="13" fill="#b6afa1">Redis</text>
+<rect x="241" y="242" width="73" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
+<text x="254" y="262" font-size="13" fill="#b6afa1">Docker</text>
+<rect x="324" y="242" width="50" height="30" rx="8" fill="#17141a" stroke="#241c22"/>
+<text x="337" y="262" font-size="13" fill="#b6afa1">AWS</text>
+<line x1="52" y1="314" x2="80" y2="314" stroke="#7d7669" stroke-width="1.5"/>
+<text x="92" y="318" font-size="12.5" letter-spacing="0.4" fill="#7d7669">Projects</text>
+<text x="52" y="347" font-size="16" font-weight="700" fill="#c9576c">›</text>
+<text x="74" y="346" font-size="13.5" font-weight="700" fill="#f3efe7">LedgerPay</text>
+<text x="212" y="346" font-size="13.5"><tspan fill="#c9576c" font-weight="700">710 TPS</tspan><tspan fill="#b6afa1">, zero overselling under lock contention</tspan></text>
+<text x="52" y="371" font-size="16" font-weight="700" fill="#c9576c">›</text>
+<text x="74" y="370" font-size="13.5" font-weight="700" fill="#f3efe7">WorkZone</text>
+<text x="212" y="370" font-size="13.5"><tspan fill="#b6afa1">Multi-tenant HR SaaS, </tspan><tspan fill="#c9576c" font-weight="700">50+</tspan><tspan fill="#b6afa1"> APIs, schema per tenant</tspan></text>
+<line x1="52" y1="420" x2="80" y2="420" stroke="#7d7669" stroke-width="1.5"/>
+<text x="92" y="424" font-size="12.5" letter-spacing="0.4" fill="#7d7669">Experience</text>
+<text x="52" y="453" font-size="16" font-weight="700" fill="#c9576c">›</text>
+<text x="74" y="452" font-size="13.5" font-weight="700" fill="#f3efe7">Straive</text>
+<text x="212" y="452" font-size="13.5"><tspan fill="#b6afa1">SWE Intern, 2025</tspan></text>
+<text x="52" y="477" font-size="16" font-weight="700" fill="#c9576c">›</text>
+<text x="74" y="476" font-size="13.5" font-weight="700" fill="#f3efe7">Annam.AI</text>
+<text x="212" y="476" font-size="13.5"><tspan fill="#b6afa1">SDE Intern, 2025</tspan></text>
+<line x1="52" y1="526" x2="80" y2="526" stroke="#7d7669" stroke-width="1.5"/>
+<text x="92" y="530" font-size="12.5" letter-spacing="0.4" fill="#7d7669">DSA</text>
+<text x="52" y="559" font-size="16" font-weight="700" fill="#c9576c">›</text>
+<text x="74" y="558" font-size="13.5"><tspan fill="#b6afa1">LeetCode Knight, </tspan><tspan fill="#c9576c" font-weight="700">1872</tspan><tspan fill="#b6afa1">, top </tspan><tspan fill="#c9576c" font-weight="700">1.2%</tspan><tspan fill="#b6afa1">, </tspan><tspan fill="#c9576c" font-weight="700">700+</tspan><tspan fill="#b6afa1"> solved</tspan></text>
 </g>
-<g transform="translate(768,123) scale(1.33837)"><clipPath id="pc"><rect width="298.87" height="300.00" rx="10"/></clipPath>
+<g transform="translate(768,85) scale(1.33837)"><clipPath id="pc"><rect width="298.87" height="300.00" rx="10"/></clipPath>
 <g clip-path="url(#pc)"><rect width="298.87" height="300.00" fill="#17141a"/>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="5.66" font-weight="700" xml:space="preserve">
 <text x="0" y="4.42" textLength="298.87" lengthAdjust="spacingAndGlyphs"><tspan fill="#101014">JAVA·SPRING·BOOT·SECURITY·JPA·POSTGRES</tspan><tspan fill="#b4341c">QL·R</tspan><tspan fill="#ac341c">EDIS</tspan><tspan fill="#b4341c">·FA</tspan><tspan fill="#ac341c">ST</tspan><tspan fill="#a4341c">API·PYT</tspan><tspan fill="#101014">HON·DOCKER·AWS·GCP·NGINX·CADDY·CLOUDFL</tspan></text>
@@ -109,5 +101,5 @@
 <text x="0" y="293.09" textLength="298.87" lengthAdjust="spacingAndGlyphs"><tspan fill="#101014">ARE·JWT·CELERY·FLASK·MONGODB·LIN</tspan><tspan fill="#141414">U</tspan><tspan fill="#14140c">X</tspan><tspan fill="#141414">·</tspan><tspan fill="#140c0c">G</tspan><tspan fill="#1c1c1c">IT·CICD·J</tspan><tspan fill="#141414">UNIT</tspan><tspan fill="#1c1c1c">·</tspan><tspan fill="#141414">T</tspan><tspan fill="#1c1c14">E</tspan><tspan fill="#141414">ST</tspan><tspan fill="#1c1c1c">CONTAI</tspan><tspan fill="#141414">NE</tspan><tspan fill="#1c1414">R</tspan><tspan fill="#1c1c14">S</tspan><tspan fill="#101014">·LOCUST·PYTEST·SQL·BASH·JAVASCRI</tspan></text>
 <text x="0" y="298.75" textLength="298.87" lengthAdjust="spacingAndGlyphs"><tspan fill="#101014">PT·REST·JAVA·SPRING·BOOT·SECURITY·JPA·</tspan><tspan fill="#1c1c14">P</tspan><tspan fill="#141414">OSTGRESQL·R</tspan><tspan fill="#140c0c">E</tspan><tspan fill="#141414">D</tspan><tspan fill="#140c0c">I</tspan><tspan fill="#141414">S·FA</tspan><tspan fill="#141c14">S</tspan><tspan fill="#101014">TAPI·PYTHON·DOCKER·AWS·GCP·NGINX·CADDY</tspan></text>
 </g></g></g>
-<rect x="768.5" y="123.5" width="399" height="399" rx="12" fill="none" stroke="#241c22"/>
+<rect x="768.5" y="85.5" width="399" height="399" rx="12" fill="none" stroke="#241c22"/>
 </svg>
